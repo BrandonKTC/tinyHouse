@@ -25,20 +25,6 @@ Here is a summary of all the main features of the TinyHouse application. A user 
 
 ---
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/d4nylo/tinyhouse.git
-```
-
-Go to the project directory
-
-```bash
-  cd tinyhouse
-```
-
 ## Client
 
 ### Environment Variables
