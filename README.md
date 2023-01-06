@@ -2,8 +2,6 @@
 
 A Full-stack Typescript React & GraphQL application.
 
-This app was made by following the [TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL](https://www.newline.co/tinyhouse).
-
 You can check the app here: https://tinyhouse.herokuapp.com
 
 ![App Screenshot](https://res.cloudinary.com/d4nylo/image/upload/v1647276795/tinyhouse/tinyhouse-app_tpmapb.png)
